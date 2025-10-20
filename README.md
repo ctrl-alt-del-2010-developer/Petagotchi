@@ -43,4 +43,4 @@ Basit bir Python tabanlı sanal evcil hayvan uygulaması.
 4. Pull request açın
 
 ## Lisans
-- Bu depo için uygun bir lisans (ör. MIT) eklemeniz önerilir.
+- Bu proje MIT lisansı altındadır.
