@@ -34,7 +34,7 @@ Basit bir Python tabanlı sanal evcil hayvan uygulaması.
 - Menüde seçim yapmak için ilgili numarayı veya belirtilen tuşu girin.
 
 ## Fotoğraf
-![image]("Screenshot_2025-10-18_10_34_33.png")
+![image](Screenshot_2025-10-18_10_34_33.png)
 
 ## Katkıda bulunma
 1. Fork
